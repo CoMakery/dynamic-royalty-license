@@ -1,5 +1,5 @@
 ### A Software License Intended To Maximize Collaborative Value Creation
-by [@noahthorp](http://twitter.com/noahthorp) (<noah@citizencode.io>)
+by [@noahthorp](http://twitter.com/noahthorp) (<noah@citizencode.io>), Co-founder at [Citizen Code](http://citizencode.io)
 
 I have drafted a new license called the [Peer Production Royalty Token License](license.md).
 
