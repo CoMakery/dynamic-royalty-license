@@ -1,5 +1,5 @@
 ### A Software License Intended To Maximize Collaborative Value Creation
-by [@noahthorp](http://twitter.com/noahthorp) - <noah@citizencode.io>
+by [@noahthorp](http://twitter.com/noahthorp) (<noah@citizencode.io>)
 
 I have drafted a new license called the [Peer Production Royalty Token License](license.md).
 
@@ -25,6 +25,6 @@ Your feedback on why you would or would not use a formalized version of this lic
 
 If you are committed to using this approach for your product, investment, or service offering let me know! Commitments by lawyers to contribute to this contract would also be welcome. Your early enthusiasm encourages me to continue iterating.
 
-Attribution - many thanks (and no blame) to Joel Dietz (Swarm), Derek Razo (Enspiral), Tony Lai (LawGives), Chelsea Robinson (Enspiral), Matthew Schutte, Primavera De Fillipi (Backfeed, Harvard Berkman Center), and Christopher Allen for helping develop the concepts explored here.
+Attribution - many thanks (and no blame) to Joel Dietz (Swarm), Derek Razo (Enspiral), Tony Lai (LawGives), Chelsea Robinson (Enspiral), Matthew Schutte, Primavera De Fillipi (Backfeed, Harvard Berkman Center), Christopher Allen, and my team mates at [Citizen Code](http://citizencode.io) for helping develop the concepts explored here.
 
 Caveats. This is an experimental license. I am not a lawyer. This should not be construed as legal advice.
