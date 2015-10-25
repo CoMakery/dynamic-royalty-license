@@ -1,7 +1,7 @@
 ### A Software License Intended To Maximize Collaborative Value Creation
-by [Noah Thorp](http://twitter.com/noahthorp) - <noah@citizencode.io>
+by [@noahthorp](http://twitter.com/noahthorp) - <noah@citizencode.io>
 
-I have drafted a new license called the Peer Production Royalty Token License.
+I have drafted a new license called the [Peer Production Royalty Token License](license.md).
 
 The intent of this license is to create a low friction business model for open innovation and collaborative value creation. It provides an alternative to forming competitive product companies that provide economic support at the cost of collaborative solution potential.
 
