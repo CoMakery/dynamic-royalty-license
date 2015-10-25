@@ -1,6 +1,6 @@
 ## A Software License Intended To Maximize Collaborative Value Creation
-###By [@noahthorp](http://twitter.com/noahthorp), Co-founder at [Citizen Code](http://citizencode.io)
-####Contact: (<noah@citizencode.io>)
+###By [@noahthorp](http://twitter.com/noahthorp)
+*Co-founder at [Citizen Code](http://citizencode.io), (<noah@citizencode.io>)*
 
 Here's the first draft of a new software license called the [Peer Production Royalty Token License](license.md).
 
