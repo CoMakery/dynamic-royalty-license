@@ -62,7 +62,7 @@ Bounty Award = Base Bounty x Quality x Risk Factor
 - 0.25x bounty is given to the creator of an accepted issue. This is intended for product managers and community contributions.
 
 "Quality" multiples:
-- 2x bounty multiple for increasing community knowledge, collaboration, design cohesion, and code quality on an issue through a collaborative submission (e.g. pair programming, design / dev pair). These bounties will be split between the submitters.
+- 1.5x bounty multiple for increasing community knowledge, collaboration, design cohesion, and code quality on an issue through a collaborative submission (e.g. pair programming, design / dev pair). These bounties will be split between the submitters.
 - 2x bounty multiple for commits that include test coverage.
 
 
