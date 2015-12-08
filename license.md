@@ -1,5 +1,5 @@
-# Peer Production Royalty Token License (PPRT)
-### *v0.01 (experimental - don't use this yet)*
+# Dynamic Equity Organization (DEO) License
+### Warning! Experimental - don't use this until it has been legally reviewed
 
 (c) [Year] [Person or organization]
 
@@ -19,7 +19,7 @@ If you submit a contribution to the repository, you grant to the repository copy
 
 You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions.
 
-## Repository Specific Agreements
+## Agreements
 
 ### Statement of Intent
 
