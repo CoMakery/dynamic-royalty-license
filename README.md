@@ -1,4 +1,4 @@
-## Start a Dynamice Equity Organization (DEO) To Maximize Collaborative Value Creation
+## Start a Dynamic Equity Organization (DEO) To Maximize Collaborative Value Creation
 ###By [@noahthorp](http://twitter.com/noahthorp)
 *Co-founder at [Citizen Code](http://citizencode.io), <noah@citizencode.io>*
 
