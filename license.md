@@ -25,7 +25,7 @@ all copies or substantial portions of the Software.
 
 The Contributors hereby grant You a worldwide and nonexclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Software, on the terms and conditions stated in this agreement.
 
-If you are a Contributor, You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your Contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
+If You are a Contributor, You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your Contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
 
 ## Royalty Tokens
 
