@@ -2,7 +2,7 @@
 
 Copyright (c) [Year] The Contributors
 
-Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreeemnt affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
+Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreeement affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
 
 You shall include the above copyright notice and this agreement in
 all copies or substantial portions of the Software.
@@ -11,7 +11,7 @@ all copies or substantial portions of the Software.
 
 "Contributor" means each individual or entity that creates or contributes to the creation of the Software, including the initial author of the Software.
 
-"Core Contributor" means the following individuals: [insert names of initial core contributors].
+"Core Contributors" means the following individuals: [insert names of initial core contributors].
 
 “Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, subslicensing, and integreations of the Software.
 
@@ -25,7 +25,7 @@ all copies or substantial portions of the Software.
 
 The Contributors hereby grant You a worldwide and nonexclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Software, on the terms and conditions stated in this agreement.
 
-You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that you create that includes your Contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
+If you are a Contributor, You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your Contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
 
 ## Royalty Tokens
 
