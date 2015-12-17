@@ -1,76 +1,78 @@
-# Dynamic Equity Organization (DEO) License
-### Warning! Experimental - don't use this until it has been legally reviewed
+# Dynamic Royalty License Agreement
 
-(c) [Year] [Person or organization]
+Copyright (c) [Year] The Contributors
 
-By using or contributing to this version of the code repository you agree to the following contract.
+Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreeemnt affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
 
-## TERMS OF USE
+You shall include the above copyright notice and this agreement in
+all copies or substantial portions of the Software.
 
-Permission is hereby granted, IN EXCHANGE FOR THE ROYALTY PERCENTAGE DERIVED FROM THIS SOFTWARE'S USE AND PAID PRORATA TO ROYALTY SHARING TOKEN HOLDERS, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## Definitions
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+"Contributor" means each individual or entity that creates or contributes to the creation of the Software, including the initial author of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+"Core Contributor" means the following individuals: [insert names of initial core contributors].
 
-## Contributions
+“Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, subslicensing, and integreations of the Software.
 
-If you submit a contribution to the repository, you grant to the repository copyright holder and to recipients of the repository contents a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright and patent license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works free of any charge separate from any Royalty Token's granted in exchange for your contribution.
+"Notice E-Mail Address" means the following e-mail address: [insert e-mail address for official notices to the Core Contributors].
 
-You represent that you are legally entitled to grant the above license. If your employer(s) has rights to intellectual property that you create that includes your Contributions, you represent that you have received permission to make Contributions on behalf of that employer, that your employer has waived such rights for your Contributions.
+"Software" means the work of authorship, whether in source or object form, made available under this agreement, as indicated by a copyright notice that is included in or attached to the work.
 
-## Agreements
+"You" or "Your" means an individual or a legal entity exercising rights under this agreement. For legal entities, You includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, control means (1) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (2) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
 
-### Vision
+## Grant of License
 
-[How this organization will make the world a better place. This should be specific enough to guide decisions by determining if an action will be in or out of alignment with the vision.]
+The Contributors hereby grant You a worldwide and nonexclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Software, on the terms and conditions stated in this agreement.
 
-### Values
+You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that you create that includes your Contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
 
-[What the community values are These should be specific enough to guide decisions by determining if an action will be in or out of alignment with the values.]
+## Royalty Tokens
 
-### Core Contributors
+The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution that is accepted by the Core Contributors and included in the Software. The amount of Royalty Tokens awarded will be based upon the following formula:
 
-[Names of individual contributors who are part of the decision making process]
+Royalty Token Award = Base Award x Quality x Risk Factor
 
-### Royalties
+"Risk Factor" means:
 
-7.5% of gross revenue derived from the sale, hosting, or distribution of this software will be shared with the Royalty Token Holders on a prorata basis.
+- (3) if less than $5,000 in Royalties has been distributed to the Contributors in the 1 year period prior to the award.
+- (2) if $5,000 to $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
+- (1) if more than $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
 
-### Royalty Token Bounties
+"Base Award" means:
 
-Core Contributors can accept repository contributions and issue bounties autonomously without a governance process. Only work accepted by a Core Contributor receives a bounty.
-
-```
-Bounty Award = Base Bounty x Quality x Risk Factor
-```
-
-"Risk Factor"
-
-- (3) if less than $5,000 in royalties has been distributed to stakeholders in the last year.
-- (2) if $5,000 to $100,000 in royalties have been distributed in the last year.
-- (1) if more than $100,000 in royalties have been distributed in the last year.
-
-"Base Bounty" Coin amount for contributions that are accepted by Core Contributors is:
 - (100) Core Contributor hourly rate
 - (100) Minor Open Contribution
 - (1000) Open Contribution
 
-"Quality" multiples:
+"Quality" means:
+
 - 1.5x bounty multiple for increasing community knowledge, collaboration, design cohesion, and code quality on an issue through a collaborative submission (e.g. pair programming, design / dev pair). These bounties will be split between the submitters.
 - 2x bounty multiple for commits that include test coverage.
 
-Once an Coin bounty has been awarded and recorded in the Royalty Sharing Token Table, these Coins can only be transferred by permission or request of the Coin owner.
+The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
 
-### Coin Table
+Any Contributor may assign ownership of any Royalty Tokens that the Contributor holds by written request to the Notice E-Mail Address, and the Core Contributors shall update the Royalty Token Table to reflect such assignment.
 
-One canonical Coin Table will be used to track ownership of royalty sharing tokens ("Coins"). It will be available and reasonably accessible to all Coin holders. Core Contributors are responsible for furnishing the latest Coin Table data to any Coin holder that requests it.
+## Royalty Payments
 
-By default the Coin Table will be tracked in the initial designated origin master repository accessible to all Core Contributors. A new Royalty Sharing Token Table may be designated through a proposal by Core Contributors as long the existing Royalty Token Ownership is migrated to the new system of record.
+You shall pay the Contributors a royalty of 7.5% of Your Gross Sales Revenue (the "Royalties") using the Bitcoin digital currency to the following Bitcoin address [insert Bitcoin address]. The Core Contributors shall be responsible for distributing the Royalties to the Contributors on a prorata basis as determined by the Royalty Token Table.
 
-| Contributor     | Coins   |
-| :-------------  | :------------- |
-|                 | 0       |
+You shall pay the Royalties quarterly in arrears within 60 days after the end of each calendar quarter. Your obligation to pay the Royalties shall survive the expiration or earlier termination of this agreement.
+
+You shall provide a report, upon request by any of the Core Contributors, indicating the method and basis of calculation of any payment of the Royalties, however You will be under no obligation to provide customer names or contact information in such report.
+
+Interest shall accrue on any Royalties due and payable hereunder and remaining unpaid for more than 30 days (the “Principal Amount”) at a rate per annum which shall from day to day be equal to 10% per year, computed on the basis of a year of 360 days and for the actual number of days elapsed (including the first day but excluding the last day) until payment of the Principal Amount.
+
+## Warranties and Limitations of Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 ## Governance
 
@@ -91,8 +93,3 @@ Each Core Contributor may have their vote counted once for each product proposal
 1. Anyone can request that the proposal be discussed on a phone call or video call.
 1. The proposal is adopted immediately if all Core Contributors respond with either +1 or +0.
 1. The proposal is adopted if less than 25% of Core Contributors respond "-1" and 25% or more respond "+1" within 2 weeks of the final proposal modification.
-
-## Hall of Shame
-
-Public shaming reduces enforcement costs for all license users. Companies who have not paid their royalties for this license are listed here:
-[list]
