@@ -2,7 +2,7 @@
 
 Copyright (c) [Year] The Contributors
 
-Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreeement affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
+Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreement affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
 
 You shall include the above copyright notice and this agreement in
 all copies or substantial portions of the Software.
@@ -13,7 +13,7 @@ all copies or substantial portions of the Software.
 
 "Core Contributors" means the following individuals: [insert names of initial core contributors].
 
-“Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, subslicensing, and integreations of the Software.
+“Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, sublicensing, and integrations of the Software.
 
 "Notice E-Mail Address" means the following e-mail address: [insert e-mail address for official notices to the Core Contributors].
 
@@ -50,7 +50,7 @@ Royalty Token Award = Base Award x Quality x Risk Factor
 - 1.5x bounty multiple for increasing community knowledge, collaboration, design cohesion, and code quality on an issue through a collaborative submission (e.g. pair programming, design / dev pair). These bounties will be split between the submitters.
 - 2x bounty multiple for commits that include test coverage.
 
-The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
+The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
 
 Any Contributor may assign ownership of any Royalty Tokens that the Contributor holds by written request to the Notice E-Mail Address, and the Core Contributors shall update the Royalty Token Table to reflect such assignment.
 
@@ -74,22 +74,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-## Governance
+## Modifications
 
-Core Contributors may make proposals to:
-- Add another Core Contributor
-- Remove another Core Contributor
-- Modify royalty or default bounty amounts for versions of the repository created after the proposal is adopted.
-- Core Contributors may propose a "Coin Fork". This is different than simply forking and extending the repository as a user.
+The Core Contributors may, by a majority vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
 
-In the case of a "Coin Fork" the new repository will begin with a duplicate of old Royalty Token Table distribution. New Core Contributors to the repository will be proposed and determined by the original Core Contributors. If this occurs then the forked repository may dynamically issue Coins that only apply to the royalty distribution table for the new repository.
-
-## Proposal Process
-
-Each Core Contributor may have their vote counted once for each product proposal. They are free to alter their vote prior to the quorum required for proposal adoption. Proposals, votes, and written dialog about proposals are public to all Royalty Sharing Token holders and Core Committers.
-
-1. The proposer (who must be a Core Contributor) creates a new pull request with the proposal. The tension to be addressed by the proposal is included in the commit message.
-1. Core Contributors respond with clarifications, reactions, and a vote of "+1", "+0", or "-1". To constructively accommodate potential disinterest, any Core Contributor can abstain from participating.
-1. Anyone can request that the proposal be discussed on a phone call or video call.
-1. The proposal is adopted immediately if all Core Contributors respond with either +1 or +0.
-1. The proposal is adopted if less than 25% of Core Contributors respond "-1" and 25% or more respond "+1" within 2 weeks of the final proposal modification.
+The Core Contributors may, by a majority vote, modify royalty or bounty amounts for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
