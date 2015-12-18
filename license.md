@@ -80,4 +80,4 @@ THE SOFTWARE.
 
 The Core Contributors may, by a majority vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
 
-The Core Contributors may, by a majority vote, modify royalty or royalty token award amounts for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
+The Core Contributors may, by a majority vote, modify (1) royalty amounts or (2) the formula for determing royalty token awards, for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
