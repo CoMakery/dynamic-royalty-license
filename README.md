@@ -4,9 +4,24 @@
 
 **Here's the first draft for a new open source license and company operating agreement to form a [Dynamic Equity Organization](license.md).**
 
-The intent is to create a **lightweight legal entity and open collaboration business model**. It provides an alternative to forming a competitive product company that provides economic support at the cost redundant effort and reduced innovation potential.
+The intent is to create a **lightweight legal entity and open innovation business model**. 
 
-The license specifies open contribution filtered by a core group. It features balanced autonomous control of contributions by trusted agents, rapid collective decision making by Core Contributors when needed, and rapid iterative agreement amendment to adapt to the unknown.
+Open Innovation Business Model
+
+- Core contributors accept contributions in exchange for royalty tokens
+- Operations companies (e.g. web hosts, software distributors, manufacturers) pay royalties for use of the IP to token holders
+
+Open Innovation Business Model Benefits
+- Open Source contributors benefit financially from their contributions (massive for creators)
+- Low cost, light weight organizations come into existence using contract law rather than state filings
+- Optimized for compatibility with smart contracts to automate payment, distribution of royalties, licensing, and legal compliance
+- Open source code can be adapted to specific use cases
+- Open contribution leads to more ingenious solutions and bug detection
+- Open contribution model aligns the incentives of a wider range of contributors and beneficiaries which reduces competition
+- Core contributors create project continuity
+- Royalty distribution model means free services remain free for those who don’t charge (i.e. commons)
+
+The license enables open contribution filtered by a core group. It features balanced autonomous control of contributions by trusted agents, rapid collective decision making by Core Contributors when needed, and rapid iterative agreement amendment to adapt to the unknown.
 
 The license dynamically allocates  "Coins" backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs, those without access to capital in the developing world, collapsed economies, and recessions. These Coins can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
 
