@@ -4,7 +4,7 @@
 
 **Here's the first draft for a new open source license and company operating agreement to form a [Dynamic Equity Organization](license.md).**
 
-The intent is to create a **lightweight legal entity and open innovation business model**. 
+The intent is to create a **lightweight legal entity and open innovation business model**.
 
 Open Innovation Business Model
 
@@ -21,9 +21,27 @@ Open Innovation Business Model Benefits
 - Core contributors create project continuity
 - Royalty distribution model means free services remain free for those who don’t charge (i.e. commons)
 
+**Overview**
+
+![Overview](images/Overview.jpg)
+
+**Contributors Earn Royalty Coins**
+
+![Overview](images/Contributor.jpg)
+
+**Investors Receive Royalty Coins By Supporting Contributors**
+
+![Overview](images/Investor.jpg)
+
+**Royalty Coin Holders Receive Royalties From Revenues**
+
+![Overview](images/Royalties.jpg)
+
+**No bank account is needed.** The Dynamic Equity Organization holds the IP and manages the who holds Royalty Coins. It never needs to deal directly with fiat currency. It only deals in the Royalty Coins that it creates. Royalties can be distributed directly to royalty coin holders via a smart contract using bitcoin or other payment software.
+
 The license enables open contribution filtered by a core group. It features balanced autonomous control of contributions by trusted agents, rapid collective decision making by Core Contributors when needed, and rapid iterative agreement amendment to adapt to the unknown.
 
-The license dynamically allocates  "Coins" backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs, those without access to capital in the developing world, collapsed economies, and recessions. These Coins can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
+The license dynamically allocates "Coins" backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs, those without access to capital in the developing world, collapsed economies, and recessions. These Coins can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
 
 Using open source software as an example, here's how royalties are distributed. Individuals or companies pay a royalty fee for revenue made by hosting, selling, or distributing licensed software. Open source contributors, product managers, designers, and marketers receive a percentage of royalties in proportion to the work they do. This work is tracked through the distribution of Coins on a ledger managed by the organization. The coins are brought into existence by the contract in the repository.
 
