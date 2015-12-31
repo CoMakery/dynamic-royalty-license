@@ -1,10 +1,12 @@
-# Dynamic Equity Organizations (DEO)
-## A Smart Contract compatible Legal Structure for Open Innovation
+# The Dynamic Organization
+### A Smart Contract Compatible Legal Structure for Open Innovation
 
 ### By [@noahthorp](http://twitter.com/noahthorp)
 *Co-founder at [Citizen Code](http://citizencode.io), <noah@citizencode.io>*
 
 Here is the [early operating agreement draft](license.md) for a lightweight legal entity to support an **open innovation business model**. It is intended to solve structural challenges faced by incubators, freelancer collaborators, investors, and open innovation contributors. It strives to be both innovative and legally compliant.
+
+It may go without saying - when completed the legal documents for establishing a Dynamic Organization itself will be freely usable and modifiable without restriction. This will probably be a CC0 license.
 
 Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organization/issues) is a great way to give us feedback on your desires and concerns. We will be integrating this feedback into future revisions or variations of the contract. If Github issues are not your style you can send an email to <noah@citizencode.io>.
 
@@ -27,27 +29,42 @@ Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organizat
 
 ### Overview
 
+The Dynamic Organization:
+- manages distribution of Royalties Coins in exchange for Contributions
+- holds the IP
+- manages a table of royalty tokens
+
+ The Dynamic Org never needs to deal directly with fiat currency and so **no fiat bank account is needed**. It only deals in the Royalty Coins that it creates. Royalties can be distributed directly to royalty coin holders via a smart contract using bitcoin or other payment software.
+
+Contributions are filtered by a core team. The governance structure will define how decision making authority and budgets are delegated to core members. It also will define rapid iterative agreement amendment to adapt to the unknown.
+
+The license dynamically allocates "Coins" backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs as well as those without access to capital in the developing world, collapsed economies, and recessions. These Coins can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
+
 ![Overview](images/Overview.jpg)
 
-### Contributors Earn Royalty Coins
+### Contributors Earn Royalty Coins For Contributions
 
-![Overview](images/Contributor.jpg)
+![Contributor](images/Contributor.jpg)
 
 ### Investors Receive Royalty Coins By Supporting Contributors
 
-![Overview](images/Investor.jpg)
+![Investor](images/Investor.jpg)
 
 ### Royalty Coin Holders Receive Royalties From Revenues
 
-![Overview](images/Royalties.jpg)
+![Royalties](images/Royalties.jpg)
 
-**No bank account is needed.** The Dynamic Equity Organization holds the IP and manages the who holds Royalty Coins. It never needs to deal directly with fiat currency. It only deals in the Royalty Coins that it creates. Royalties can be distributed directly to royalty coin holders via a smart contract using bitcoin or other payment software.
+### Royalty Coins Can Be Traded as a Complimentary Currency
 
-The license enables open contribution filtered by a core group. It features balanced autonomous control of contributions by trusted agents, rapid collective decision making by Core Contributors when needed, and rapid iterative agreement amendment to adapt to the unknown.
+Backed by the value of the IP and the IP Royalty stream.
 
-The license dynamically allocates "Coins" backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs, those without access to capital in the developing world, collapsed economies, and recessions. These Coins can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
+![Complimentary-Currency](images/Complimentary-Currency.jpg)
+
+### Example
 
 Using open source software as an example, here's how royalties are distributed. Individuals or companies pay a royalty fee for revenue made by hosting, selling, or distributing licensed software. Open source contributors, product managers, designers, and marketers receive a percentage of royalties in proportion to the work they do. This work is tracked through the distribution of Coins on a ledger managed by the organization. The coins are brought into existence by the contract in the repository.
+
+## Background
 
 Research by Swarm.fund on lightweight unincorporated associations in California as a basis for token issuance indicates a promising direction. Simply signing an agreement specified in the license brings an unincorporated association into existence without the requirement of filing paperwork with the government. The jurisdiction the association is formed in is of particular concern and requires further investigation regarding limitation of liability, the holding of assets, and tax ramifications.
 
@@ -61,7 +78,23 @@ If you are committed to using this approach for your product, investment, or ser
 
 ### Attribution
 
-Many thanks (and no blame) to Jesse Posner, Joel Dietz (Swarm), Derek Razo (Enspiral), Tony Lai (LawGives), Chelsea Robinson (Enspiral), Matthew Schutte, Primavera De Fillipi, Christopher Allen, Alexis Gonzales-Black, Harlan Wood, Digital Catapult and our team mates at [Citizen Code](http://citizencode.io) for helping develop the concepts explored here.
+Many thanks (and no blame) for pioneering and helping develop the concepts explored here to:
+* Jesse Posner
+* Joel Dietz (Swarm)
+* Derek Razo (Enspiral)
+* Tony Lai (LawGives)
+* Chelsea Robinson (Enspiral)
+* Matthew Schutte
+* Primavera De Fillipi
+* Christopher Allen
+* Alexis Gonzales-Black
+* Harlan Wood
+* Matthew Dieters
+* Art Brock
+* Gunther Sonnenfeld
+* Andrew Markell
+* Digital Catapult
+* Our team mates at [Citizen Code](http://citizencode.io).
 
 ### DISCLAIMER
 
