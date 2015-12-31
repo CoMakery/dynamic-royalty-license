@@ -1,17 +1,19 @@
-## Start a Dynamic Equity Organization (DEO) To Maximize Collaborative Value Creation
-###By [@noahthorp](http://twitter.com/noahthorp)
+# Dynamic Equity Organizations (DEO)
+## A Smart Contract compatible Legal Structure for Open Innovation
+
+### By [@noahthorp](http://twitter.com/noahthorp)
 *Co-founder at [Citizen Code](http://citizencode.io), <noah@citizencode.io>*
 
-**Here's the first draft for a new open source license and company operating agreement to form a [Dynamic Equity Organization](license.md).**
+Here is the [early operating agreement draft](license.md) for a lightweight legal entity to support an **open innovation business model**. It is intended to solve structural challenges faced by incubators, freelancer collaborators, investors, and open innovation contributors. It strives to be both innovative and legally compliant.
 
-The intent is to create a **lightweight legal entity and open innovation business model**.
+Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organization/issues) is a great way to give us feedback on your desires and concerns. We will be integrating this feedback into future revisions or variations of the contract. If Github issues are not your style you can send an email to <noah@citizencode.io>.
 
-Open Innovation Business Model
+**The Open Innovation Business Model**
 
 - Core contributors accept contributions in exchange for royalty tokens
 - Operations companies (e.g. web hosts, software distributors, manufacturers) pay royalties for use of the IP to token holders
 
-Open Innovation Business Model Benefits
+**Open Innovation Business Model Benefits**
 - Open Source contributors benefit financially from their contributions (massive for creators)
 - Low cost, light weight organizations come into existence using contract law rather than state filings
 - Optimized for compatibility with smart contracts to automate payment, distribution of royalties, licensing, and legal compliance
@@ -21,19 +23,21 @@ Open Innovation Business Model Benefits
 - Core contributors create project continuity
 - Royalty distribution model means free services remain free for those who don’t charge (i.e. commons)
 
-**Overview**
+## Structure
+
+### Overview
 
 ![Overview](images/Overview.jpg)
 
-**Contributors Earn Royalty Coins**
+### Contributors Earn Royalty Coins
 
 ![Overview](images/Contributor.jpg)
 
-**Investors Receive Royalty Coins By Supporting Contributors**
+### Investors Receive Royalty Coins By Supporting Contributors
 
 ![Overview](images/Investor.jpg)
 
-**Royalty Coin Holders Receive Royalties From Revenues**
+### Royalty Coin Holders Receive Royalties From Revenues
 
 ![Overview](images/Royalties.jpg)
 
@@ -53,10 +57,12 @@ Ideally open source contributors would be free to trade Coins for money if they 
 
 The first version of the license is intended to be suitable for software development with just git repository tracking. However automated services can also track dynamic issuance such as Citizen Code's [SwarmBot](https://github.com/citizencode/swarmbot) and Enspiral's [CoBudget](https://github.com/cobudget).
 
-Your feedback on why you would or would not use a formalized version of this license is valuable. I welcome respectful critique and references to prior art. Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organization/issues) is a great way to track desires and concerns.
+If you are committed to using this approach for your product, investment, or service offering let <noah@citizencode.io> know! Your early enthusiasm encourages us to continue iterating.
 
-If you are committed to using this approach for your product, investment, or service offering let me know! Commitments by lawyers to contribute to this contract are especially welcome. Your early enthusiasm encourages me to continue iterating.
+### Attribution
 
-Attribution - many thanks (and no blame) to Joel Dietz (Swarm), Derek Razo (Enspiral), Tony Lai (LawGives), Chelsea Robinson (Enspiral), Matthew Schutte, Primavera De Fillipi (Backfeed, Harvard Berkman Center), Christopher Allen, Alexis Gonzales-Black and my team mates at [Citizen Code](http://citizencode.io) for helping develop the concepts explored here.
+Many thanks (and no blame) to Jesse Posner, Joel Dietz (Swarm), Derek Razo (Enspiral), Tony Lai (LawGives), Chelsea Robinson (Enspiral), Matthew Schutte, Primavera De Fillipi, Christopher Allen, Alexis Gonzales-Black, Harlan Wood, Digital Catapult and our team mates at [Citizen Code](http://citizencode.io) for helping develop the concepts explored here.
 
-Caveats. This is an experimental license. I am not a lawyer. This should not be construed as legal advice.
+### DISCLAIMER
+
+This is an experimental license. This should not be construed as legal advice.
