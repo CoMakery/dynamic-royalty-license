@@ -40,9 +40,9 @@ Royalty Token Award = Base Award x Quality x Risk Factor
 
 "Base Award" means:
 
-- (100) Minor Open Contribution
-- (500) Standard Open Contribution
-- (1000) Major Open Contribution
+- (100) Minor Contribution
+- (500) Standard Contribution
+- (1000) Major Contribution
 
 "Quality" means:
 
