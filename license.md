@@ -1,6 +1,6 @@
 # Dynamic Royalty License Agreement
 
-Copyright (c) [Year] The Contributors
+Copyright (c) **[insert year]** The Contributors
 
 Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreement affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
 
@@ -10,11 +10,11 @@ You shall include the above copyright notice and this agreement in all copies or
 
 "Contributor" means each individual or entity that creates or contributes to the creation or improvement of the Software, including the initial author of the Software.
 
-"Core Contributors" means the following individuals or entities: [insert names of initial core contributors].
+"Core Contributors" means the following individuals or entities: **[insert names of initial core contributors]**.
 
 “Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, sublicensing, and integrations of the Software.
 
-"Notice E-Mail Address" means the following e-mail address: [insert e-mail address for official notices to the Core Contributors].
+"Notice E-Mail Address" means the following e-mail address: **[insert e-mail address for official notices to the Core Contributors]**.
 
 "Software" means the work of authorship, whether in source or object form, made available under this agreement, as indicated by a copyright notice that is included in or attached to the work.
 
@@ -55,7 +55,7 @@ Any Contributor may assign ownership of any Royalty Tokens that the Contributor 
 
 ## Royalty Payments
 
-You shall pay the Contributors a royalty of 7.5% (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the Bitcoin digital currency to the following Bitcoin address [insert Bitcoin address] (the "Royalty Payment Address").
+You shall pay the Contributors a royalty of 7.5% (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the Bitcoin digital currency to the following Bitcoin address: **[insert Bitcoin address]** (the "Royalty Payment Address").
 
 The Core Contributors shall be responsible for distributing the Royalties to the Contributors on a prorata basis as determined by the Royalty Token Table. Each Contributor shall provide the Core Contributors with a Bitcoin address, by a written notice sent to the Notice E-Mail Address, for the delivery of the Contributor's Royalties. Each Contributor may change the Bitcoin address at which the Contributor will receive Royalties by a written notice sent to the Notice E-Mail Address. The Core Contributors will have no obligation to distribute Royalties to any Contributor that has not provided the Core Contributors with a Bitcoin address.
 
