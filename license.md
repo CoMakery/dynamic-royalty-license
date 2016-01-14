@@ -22,7 +22,7 @@ You shall include the above copyright notice and this agreement in all copies or
 
 ## Grant of License
 
-The Contributors hereby grant You a worldwide and nonexclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Software, on the terms and conditions stated in this agreement.
+The Contributors hereby grant You a worldwide and non-exclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Software, on the terms and conditions stated in this agreement.
 
 If You are a Contributor, You agree to the grant of the above license with respect to your contributions to the Software, and You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
 
