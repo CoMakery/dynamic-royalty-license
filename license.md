@@ -34,19 +34,18 @@ Royalty Token Award = Base Award x Quality x Risk Factor
 
 "Risk Factor" means:
 
-- (3) if less than $5,000 in Royalties has been distributed to the Contributors in the 1 year period prior to the award.
-- (2) if $5,000 to $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
+- (4) if less than $1,000 in Royalties has been distributed to the Contributors in the 1 year period prior to the award.
+- (2) if $1,000 to $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
 - (1) if more than $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
 
 "Base Award" means:
 
-- (100) Minor Contribution
-- (500) Standard Contribution
-- (1000) Major Contribution
+- (100) Small Contribution
+- (800) Standard Contribution
 
 "Quality" means:
 
-- 1.5x bounty multiple for increasing community knowledge, collaboration, design cohesion, and code quality on an issue through a collaborative submission (e.g. pair programming, design / dev pair). These bounties will be split between the submitters.
+- 1.5x bounty multiple for increasing community knowledge, collaboration, design cohesion, and code quality on an issue through a collaborative submission (e.g. pair programming, design & programmer pair). These bounties will be split between the submitters.
 - 2x bounty multiple for commits that include test coverage.
 
 The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
