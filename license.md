@@ -54,9 +54,9 @@ Any Contributor may assign ownership of any Royalty Tokens that the Contributor 
 
 ## Royalty Payments
 
-You shall pay the Contributors a royalty of 7.5% (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the Bitcoin digital currency to the following Bitcoin address: **[insert Bitcoin address]** (the "Royalty Payment Address").
+You shall pay the Contributors a royalty of 7.5% (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the **[insert digital currency]** digital currency to the following **[insert blockchain]** address: **[insert blockchain address]** (the "Royalty Payment Address").
 
-The Core Contributors shall be responsible for distributing the Royalties to the Contributors on a prorata basis as determined by the Royalty Token Table. Each Contributor shall provide the Core Contributors with a Bitcoin address, by a written notice sent to the Notice E-Mail Address, for the delivery of the Contributor's Royalties. Each Contributor may change the Bitcoin address at which the Contributor will receive Royalties by a written notice sent to the Notice E-Mail Address. The Core Contributors will have no obligation to distribute Royalties to any Contributor that has not provided the Core Contributors with a Bitcoin address.
+The Core Contributors shall be responsible for distributing the Royalties to the Contributors on a prorata basis as determined by the Royalty Token Table. Each Contributor shall provide the Core Contributors with a **[insert blockchain]** address (the "Contributor Payment Address"), by a written notice sent to the Notice E-Mail Address, for the delivery of the Contributor's Royalties. Each Contributor may change the Contributor Payment Address at which the Contributor will receive Royalties by a written notice sent to the Notice E-Mail Address. The Core Contributors will have no obligation to distribute Royalties to any Contributor that has not provided the Core Contributors with a Contributor Payment Address.
 
 You shall pay the Royalties quarterly in arrears within 60 days after the end of each calendar quarter. Your obligation to pay the Royalties will survive the expiration or earlier termination of this agreement.
 
