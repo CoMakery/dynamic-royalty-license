@@ -28,7 +28,7 @@ If You are a Contributor, You agree to the grant of the above license with respe
 
 ## Royalty Tokens
 
-The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution that is accepted by the Core Contributors and included in the Software. Royalty Tokens awarded to a Core Contributor will be approved by a majority vote of the Core Contributors, excluding the Core Contributor whose potential award is the subject of that vote. The amount of Royalty Tokens awarded will be based upon the following formula:
+The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution of intellectual property that is accepted by the Core Contributors and included in the Software. Royalty Tokens awarded to a Core Contributor will be approved by a majority vote of the Core Contributors, excluding the Core Contributor whose potential award is the subject of that vote. The amount of Royalty Tokens awarded will be based upon the following formula:
 
 Royalty Token Award = Base Award x Quality x Risk Factor
 
