@@ -71,7 +71,7 @@ Using open source software as an example, here's how royalties are distributed. 
 
 ## Background
 
-Research by Swarm.fund on lightweight unincorporated associations as a basis for token issuance indicates a promising direction. Simply signing an agreement specified in the license brings an unincorporated association into existence without the requirement of filing paperwork with the government. The jurisdiction the association is formed in is of particular concern and is the subject of further investigation regarding limitation of liability, the holding of assets, and tax ramifications.
+[Research by Swarm.fund](https://swarm.gitbooks.io/dco-book/content/dco-model-template.html) on implementing Distributed Collaborative Organizations (DCOs) by using lightweight unincorporated associations as a basis for token issuance indicates a promising direction. Simply signing an agreement specified in the license brings an unincorporated association into existence without the requirement of filing paperwork with the government. The jurisdiction the association is formed in is of particular concern and is the subject of further investigation regarding limitation of liability, the holding of assets, and tax ramifications.
 
 Although the license is targeted to be created simply by people signing an agreement (ie unincorporated assocation), the license should be suitable for conversion into an LLC operating agreement. This allows the agreement to function as a founders agreement if a different legal structure is required.
 
