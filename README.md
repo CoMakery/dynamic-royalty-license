@@ -6,9 +6,18 @@
 
 Here is the [early operating agreement draft](license.md) for a lightweight legal entity to support an **open innovation business model**. It is intended to solve structural challenges faced by incubators, freelancer collaborators, investors, and open innovation contributors. It strives to be both innovative and legally compliant.
 
-It may go without saying - when completed the legal documents for establishing a Dynamic Organization itself will be freely usable and modifiable without restriction. This will probably be a CC0 license.
+#### Legal
+
+For maximum usability, these legal documents are hereby licensed under the Creative Commons CC0 public domain dedication: http://creativecommons.org/publicdomain/zero/1.0
+
+The text in this README is licensed as a Creative Commons CC-BY 4.0 license. You may adapt and distribute it with attribution to the contributors listed in the Attribution section.
+https://creativecommons.org/licenses/by/4.0/
+
+## Feedback
 
 Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organization/issues) is a great way to give us feedback on your desires and concerns. We will be integrating this feedback into future revisions or variations of the contract. If Github issues are not your style you can send an email to <noah@citizencode.io>.
+
+## How It Works
 
 **The Open Innovation Business Model**
 
@@ -25,14 +34,10 @@ Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organizat
 - Core contributors create project continuity
 - Royalty distribution model means free services remain free for those who don’t charge (i.e. commons)
 
-## Structure
-
-### Overview
-
-The Dynamic Organization:
-- manages distribution of Royalties Coins in exchange for Contributions
+**The Dynamic Organization engages in a limited set of actions**
+- manages distribution of Royalty Coins in exchange for Contributions
 - holds the IP
-- manages a table of royalty tokens
+- manages a table of Royalty Coins
 
  The Dynamic Org never needs to deal directly with fiat currency and so **no fiat bank account is needed**. It only deals in the Royalty Coins that it creates. Royalties can be distributed directly to royalty coin holders via a smart contract using bitcoin or other payment software.
 
@@ -76,9 +81,12 @@ The first version of the license is intended to be suitable for software develop
 
 If you are committed to using this approach for your product, investment, or service offering let <noah@citizencode.io> know! Your early enthusiasm encourages us to continue iterating.
 
-### Attribution
+## Attribution
 
-Many thanks (and no blame) for pioneering and helping develop the concepts explored here to:
+Many thanks (and no blame) for pioneering and helping develop the concepts explored here.
+
+Attribution goes to:
+* Noah Thorp (Citizen Code)
 * Jesse Posner
 * Joel Dietz (Swarm)
 * Derek Razo (Enspiral)
@@ -94,8 +102,8 @@ Many thanks (and no blame) for pioneering and helping develop the concepts explo
 * Gunther Sonnenfeld
 * Andrew Markell
 * Digital Catapult
-* Our team mates at [Citizen Code](http://citizencode.io).
+* [Citizen Code](http://citizencode.io).
 
-### DISCLAIMER
+## DISCLAIMER
 
 This is an experimental license. This should not be construed as legal advice.
