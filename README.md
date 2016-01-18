@@ -1,5 +1,5 @@
-# The Dynamic Organization
-### A Smart Contract Compatible Legal Structure for Open Innovation
+# The Dynamic Royalty License
+### A Smart Contract Compatible Solution for Open Innovation and Peer Production
 
 ### By [@noahthorp](http://twitter.com/noahthorp)
 *Co-founder at [Citizen Code](http://citizencode.io), <noah@citizencode.io>*
@@ -35,31 +35,31 @@ Opening a [Github issue](https://github.com/citizencode/dynamic-equity-organizat
 - Royalty distribution model means free services remain free for those who don’t charge (i.e. commons)
 
 **The Dynamic Organization engages in a limited set of actions**
-- manages distribution of Royalty Coins in exchange for Contributions
+- manages distribution of royalty tokens in exchange for Contributions
 - holds the IP
-- manages a table of Royalty Coins
+- manages a table of royalty tokens
 
- The Dynamic Org never needs to deal directly with fiat currency and so **no fiat bank account is needed**. It only deals in the Royalty Coins that it creates. Royalties can be distributed directly to royalty coin holders via a smart contract using bitcoin or other payment software.
+The Dynamic Org never needs to deal directly with fiat currency and so **no fiat bank account is needed**. It only deals in the royalty tokens that it creates. Royalties can be distributed directly to royalty token holders via a smart contract using Bitcoin, Ethereum, or other payment software.
 
-Contributions are filtered by a core team. The governance structure will define how decision making authority and budgets are delegated to core members. It also will define rapid iterative agreement amendment to adapt to the unknown.
+Contributions are filtered by a core team. The [governance](governance.md) agreement defines how decision making authority and budgets are delegated to core members. It also  defines iterative agreement amendment to adapt to the unknown.
 
-The license dynamically allocates "Coins" backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs as well as those without access to capital in the developing world, collapsed economies, and recessions. These Coins can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
+The license dynamically allocates tokens backed by the value of royalty revenue. This is done without the necessity of debt, investment, or legal filings (looking into this). This provides resilience to entrepreneurs as well as those without access to capital in the developing world, collapsed economies, and recessions. These tokens can be issued and tracked transparently on a blockchain with a tool like [Swarmbot](https://github.com/citizencode/swarmbot).
 
 ![Overview](images/Overview.jpg)
 
-### Contributors Earn Royalty Coins For Contributions
+### Contributors Earn Royalty Tokens For Contributions
 
 ![Contributor](images/Contributor.jpg)
 
-### Investors Receive Royalty Coins By Supporting Contributors
+### Investors Receive Royalty Tokens By Supporting Contributors
 
 ![Investor](images/Investor.jpg)
 
-### Royalty Coin Holders Receive Royalties From Revenues
+### Royalty Token Holders Receive Royalties From Revenues
 
 ![Royalties](images/Royalties.jpg)
 
-### Royalty Coins Can Be Traded as a Complimentary Currency
+### Royalty Tokens Can Be Traded as a Complimentary Currency
 
 Backed by the value of the IP and the IP Royalty stream.
 
@@ -67,15 +67,15 @@ Backed by the value of the IP and the IP Royalty stream.
 
 ### Example
 
-Using open source software as an example, here's how royalties are distributed. Individuals or companies pay a royalty fee for revenue made by hosting, selling, or distributing licensed software. Open source contributors, product managers, designers, and marketers receive a percentage of royalties in proportion to the work they do. This work is tracked through the distribution of Coins on a ledger managed by the organization. The coins are brought into existence by the contract in the repository.
+Using open source software as an example, here's how royalties are distributed. Individuals or companies pay a royalty fee for revenue made by hosting, selling, or distributing licensed software. Open source contributors, product managers, designers, and marketers receive a percentage of royalties in proportion to the work they do. This work is tracked through the distribution of tokens on a ledger managed by the organization. The tokens are brought into existence by the contract in the repository.
 
 ## Background
 
-Research by Swarm.fund on lightweight unincorporated associations in California as a basis for token issuance indicates a promising direction. Simply signing an agreement specified in the license brings an unincorporated association into existence without the requirement of filing paperwork with the government. The jurisdiction the association is formed in is of particular concern and requires further investigation regarding limitation of liability, the holding of assets, and tax ramifications.
+Research by Swarm.fund on lightweight unincorporated associations as a basis for token issuance indicates a promising direction. Simply signing an agreement specified in the license brings an unincorporated association into existence without the requirement of filing paperwork with the government. The jurisdiction the association is formed in is of particular concern and is the subject of further investigation regarding limitation of liability, the holding of assets, and tax ramifications.
 
 Although the license is targeted to be created simply by people signing an agreement (ie unincorporated assocation), the license should be suitable for conversion into an LLC operating agreement. This allows the agreement to function as a founders agreement if a different legal structure is required.
 
-Ideally open source contributors would be free to trade Coins for money if they choose. This potentially enables compatibility with new [SEC crowd funding rules](http://www.sec.gov/news/pressrelease/2015-249.html) that go into effect on January 29th, 2016. Relatedly, investors who want to further the development of software can pay contributors to make contributions in exchange for a portion of the contribution Coins that contributors earn. Although it does not bypass accredited investor rules, this avoids the need to pay money directly to the organization. Cash for equity negotiations can occur at the edge of the organization which may avoid the necessity of the organization opening a bank account.
+Ideally open source contributors would be free to trade tokens for money if they choose. This potentially enables compatibility with new [SEC crowd funding rules](http://www.sec.gov/news/pressrelease/2015-249.html) that go into effect on January 29th, 2016. Relatedly, investors who want to further the development of software can pay contributors to make contributions in exchange for a portion of the contribution tokens that contributors earn. Although it does not bypass accredited investor rules, this avoids the need to pay money directly to the organization. Cash for royalty token negotiations can occur at the edge of the organization which may avoid the necessity of the organization opening a bank account.
 
 The first version of the license is intended to be suitable for software development with just git repository tracking. However automated services can also track dynamic issuance such as Citizen Code's [SwarmBot](https://github.com/citizencode/swarmbot) and Enspiral's [CoBudget](https://github.com/cobudget).
 
