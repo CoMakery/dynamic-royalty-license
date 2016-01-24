@@ -34,7 +34,7 @@ If You are a Contributor, You agree to the grant of the above license with respe
 
 The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution of intellectual property that is accepted by the Core Contributors and included in the Software. Royalty Tokens awarded to a Core Contributor will be approved by a majority Vote of the Core Contributors, excluding the Core Contributor whose potential award is the subject of that Vote unless that Core Contributor is the only Core Contributor. The amount of Royalty Tokens awarded will be based upon the following formula:
 
-Royalty Token Award = Base Award x Risk Factor
+Royalty Token Award = Base Award x Quality x Risk Factor
 
 "Risk Factor" means:
 
@@ -46,7 +46,7 @@ Royalty Token Award = Base Award x Risk Factor
 
 - (100) Small contribution
 - (200) Small software contribution with test coverage
-- (800) Standard contribution
+- (800) Standard Contribution
 - (1600) Standard software contribution with test coverage
 
 The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
