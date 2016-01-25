@@ -30,29 +30,6 @@ The Contributors hereby grant You a worldwide and non-exclusive license to use, 
 
 If You are a Contributor, You agree to the grant of the above license with respect to your contributions to the Software, and You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
 
-## Royalty Tokens
-
-The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution of intellectual property that is accepted by the Core Contributors and included in the Software. Royalty Tokens awarded to a Core Contributor will be approved by a majority Vote of the Core Contributors, excluding the Core Contributor whose potential award is the subject of that Vote unless that Core Contributor is the only Core Contributor. The amount of Royalty Tokens awarded will be based upon the following formula:
-
-Royalty Token Award = Base Award x Quality x Risk Factor
-
-"Risk Factor" means:
-
-- (4) if less than $1,000 in Royalties has been distributed to the Contributors in the 1 year period prior to the award.
-- (2) if $1,000 to $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
-- (1) if more than $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
-
-"Base Award" means:
-
-- (100) Small contribution
-- (200) Small software contribution with test coverage
-- (800) Standard Contribution
-- (1600) Standard software contribution with test coverage
-
-The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
-
-Any Contributor may assign ownership of any Royalty Tokens that the Contributor holds by written request to the Notice E-Mail Address, and the Core Contributors shall update the Royalty Token Table to reflect such assignment.
-
 ## Royalty Payments
 
 You shall pay the Contributors a royalty of 7.5% (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the **[insert digital currency]** digital currency to the following **[insert blockchain]** address: **[insert blockchain address]** (the "Royalty Payment Address").

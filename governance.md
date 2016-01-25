@@ -26,7 +26,28 @@ A Committee will authorize its actions by a majority Vote of the Committee, or a
 
 ## Royalty Tokens
 
-The Core Contributors, or a duly authorized Committee, shall (1) review each contribution of intellectual property to the Software by the Contributors, and determine, by majority Vote, whether the contribution is accepted, and if so, the number of Royalty Tokens to be issued in connection with that acceptance, as described in the Dynamic Royalty License Agreement, (2) maintain, and make reasonably available to the Contributors, the Royalty Token Table and the Notice E-Mail Address, and (3) maintain, and make reasonably available to the Core Contributors, the Mailing List.
+The Core Contributors, or a duly authorized Committee, shall (1) review each contribution of intellectual property to the Software by the Contributors, and determine, by Vote, whether the contribution is accepted, and if so, the number of Royalty Tokens to be issued in connection with that acceptance, as described in the Dynamic Royalty License Agreement, (2) maintain, and make reasonably available to the Contributors, the Royalty Token Table, Mailing List and the Notice E-Mail Address.
+
+The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution of intellectual property that is accepted by the Core Contributors and included in the Software. The amount of Royalty Tokens awarded will be based upon the following formula:
+
+Royalty Token Award = Base Award x Risk Factor
+
+"Risk Factor" means:
+
+- (4) if less than $1,000 in Royalties has been distributed to the Contributors in the 1 year period prior to the award.
+- (2) if $1,000 to $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
+- (1) if more than $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
+
+"Base Award" means:
+- (50) Insightful comment resulting in an improvement to the software
+- (100) Small contribution equivalent to approximately one skillful hour of insight
+- (200) Small software contribution with test coverage
+- (800) Standard Contribution
+- (1600) Standard software contribution with test coverage
+
+The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice E-Mail Address.
+
+Any Contributor may assign ownership of any Royalty Tokens that the Contributor holds by written request to the Notice E-Mail Address, and the Core Contributors shall update the Royalty Token Table to reflect such assignment.
 
 ## Adding or Removing Core Contributors
 
