@@ -14,15 +14,17 @@ Unless otherwise defined in this agreement, all terms utilized herein have the m
 
 All voting by the Core Contributors, including the approvals required under the Dynamic Royalty License Agreement, will be made in response to an emailed proposal by a Core Contributor that is sent to the Mailing List with "[VOTE]" in the subject line (a "Proposal Email").
 
-Votes will be cast Core Contributors by replying to a Proposal Email with either a "1" or "0" as the first character in the body of that replying email. "1" will indicate a Vote in favor of the proposal and "0" will indicate a Vote not in favor of the proposal.
+Votes will be cast by Core Contributors by replying to a Proposal Email with a range of numeric values between "-1" and "+1" as the first character in the body of that replying email. "+1" indicates a Vote in favor of the proposal. Only a "-1" will indicate a desire to block the proposal (a "Blocking Objection").
+
+A proposal is adopted if less than 25% of Core Contributors have replied with a Blocking Objection and 7 days (168 hours) has elapsed from when the Proposal Email was delivered to the Mailing List.
 
 ## Committees
 
-The Core Contributors may designate, by majority Vote, committees (each, a "Committee") to (1) review contributions, (2) issue Royalty Tokens, (3) manage the Royalty Token Table, (4) manage the Notice E-Mail Address, and (5) manage the Mailing List.
+The Core Contributors may designate, by Vote, committees (each, a "Committee") to (1) review contributions, (2) issue Royalty Tokens, (3) manage the Royalty Token Table, (4) manage the Notice E-Mail Address, and (5) manage the Mailing List.
 
 Each Committee will consist of one or more of the Core Contributors. Any such Committee, to the extent provided in an adopted proposal of the Core Contributors, will have and may exercise all the powers and authority of the Core Contributors in the review of contributions, issuance of Royalty Tokens, and maintenance of the Royalty Token Table, Notice E-Mail Address, and Mailing List.
 
-A Committee will authorize its actions by a majority Vote of the Committee, or as otherwise described by an adopted proposal of the Core Contributors with respect to that Committee.
+A Committee will authorize its actions by a Vote of the Committee, or as otherwise described by an adopted proposal of the Core Contributors with respect to that Committee.
 
 ## Royalty Tokens
 
@@ -51,7 +53,7 @@ Any Contributor may assign ownership of any Royalty Tokens that the Contributor 
 
 ## Adding or Removing Core Contributors
 
-The Core Contributors may add a Core Contributor by a majority Vote of the Core Contributors. The Core Contributors may remove a Core Contributors by a majority Vote of the Core Contributors, excluding the Core Contributor whose removal is the subject of that Vote.
+The Core Contributors may add a Core Contributor by a Vote of the Core Contributors. The Core Contributors may remove a Core Contributors by a Vote of the Core Contributors, excluding the Core Contributor whose removal is the subject of that Vote.
 
 ## Agreement Consents
 
@@ -61,6 +63,6 @@ The Core Contributors agree to the terms of the Dynamic Royalty License Agreemen
 
 ## Modifications
 
-This agreement may be amended by a majority Vote of the Core Contributors, or a writing this is signed by the majority of the Core Contributors, except that to the extent that there are any conflicts or inconsistencies between this agreement, or an amendment to this agreement, and the Dynamic Royalty License Agreement, the provisions of the Dynamic Royalty License Agreement will govern and control.
+This agreement may be amended by a Vote of the Core Contributors except that to the extent that there are any conflicts or inconsistencies between this agreement, or an amendment to this agreement, and the Dynamic Royalty License Agreement, the provisions of the Dynamic Royalty License Agreement will govern and control.
 
 The Core Contributors shall promptly revise this agreement to reflect any duly authorized amendments.

@@ -48,8 +48,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Modifications
 
-The Core Contributors may, by a majority Vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
+The Core Contributors may, by a Vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
 
-The Core Contributors may, by a majority Vote, modify (1) the Notice E-mail Address, (2) the Royalty Payment Address, or (3) the currency or method by which the Royalties are paid. The Core Contributors shall promptly revise this agreement to reflect any such modification.
+The Core Contributors may, by a Vote, modify (1) the Notice E-mail Address, (2) the Royalty Payment Address, or (3) the currency or method by which the Royalties are paid. The Core Contributors shall promptly revise this agreement to reflect any such modification.
 
-The Core Contributors may, by a majority Vote, modify (1) the Royalty Percentage or (2) the criteria and metrics for determining royalty token awards, for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
+The Core Contributors may, by a Vote, modify (1) the Royalty Percentage or (2) the criteria and metrics for determining royalty token awards, for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
