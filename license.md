@@ -16,7 +16,7 @@ You shall include the above copyright notice and this agreement in all copies or
 
 “Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, sublicensing, and integrations of the Software.
 
-"Notice E-Mail Address" means the following e-mail address: **[insert e-mail address for official notices to the Core Contributors]**.
+"Notice Message Service" means the following message address or software service: **[insert message address for official notices to the Core Contributors]**.
 
 "Software" means the work of authorship, whether in source or object form, made available under this agreement, as indicated by a copyright notice that is included in or attached to the work.
 
@@ -32,9 +32,11 @@ If You are a Contributor, You agree to the grant of the above license with respe
 
 ## Royalty Payments
 
-You shall pay the Contributors a royalty of 7.5% (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the **[insert digital currency]** digital currency on the **[insert blockchain]** blockchain to the following address: **[insert blockchain address]** (the "Royalty Payment Address").
+You shall pay the Contributors a **royalty of 7.5%** (the "Royalty Percentage") of Your Gross Sales Revenue (the "Royalties") using the **[insert digital currency]** digital currency on the **[insert blockchain]** blockchain to the following address: **[insert blockchain address]** (the "Royalty Payment Address").
 
-The Core Contributors shall be responsible for distributing the Royalties to the Contributors on a prorata basis as determined by the Royalty Token Table. Each Contributor shall provide the Core Contributors with a blockchain address (the "Contributor Payment Address") on the same blockchain as the Royalty Payment Address, by a written notice sent to the Notice E-Mail Address, for the delivery of the Contributor's Royalties. Each Contributor may change the Contributor Payment Address at which the Contributor will receive Royalties by a written notice sent to the Notice E-Mail Address. The Core Contributors will have no obligation to distribute Royalties to any Contributor that has not provided the Core Contributors with a Contributor Payment Address.
+The Core Contributors shall be responsible for distributing the Royalties to the Contributors on a prorata basis as determined by the Royalty Token Table. The Core Contributors shall be responsible for maintaining a Notice Message Service that is accessible to Contributors.
+
+Each Contributor shall provide the Core Contributors with a blockchain address (the "Contributor Payment Address") on the same blockchain as the Royalty Payment Address, by a written notice sent to the Notice Message Service, for the delivery of the Contributor's Royalties. Each Contributor may change the Contributor Payment Address at which the Contributor will receive Royalties by a written notice sent to the Notice Message Service. The Core Contributors will have no obligation to distribute Royalties to any Contributor that has not provided the Core Contributors with a Contributor Payment Address within 60 days of Core Contributor inclusion of the contribution.
 
 You shall pay the Royalties quarterly in arrears within 60 days after the end of each calendar quarter. Your obligation to pay the Royalties will survive the expiration or earlier termination of this agreement.
 
@@ -50,6 +52,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 The Core Contributors may, by a Vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
 
-The Core Contributors may, by a Vote, modify (1) the Notice E-mail Address, (2) the Royalty Payment Address, or (3) the currency or method by which the Royalties are paid. The Core Contributors shall promptly revise this agreement to reflect any such modification.
+The Core Contributors may, by a Vote, modify (1) the Notice Message Service, (2) the Royalty Payment Address, or (3) the currency or method by which the Royalties are paid. The Core Contributors shall promptly revise this agreement to reflect any such modification.
 
 The Core Contributors may, by a Vote, modify (1) the Royalty Percentage or (2) the criteria and metrics for determining royalty token awards, for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
