@@ -71,6 +71,8 @@ This agreement constitutes the entire agreement of the parties relating to the s
 
 ## Modifications
 
+No amendment of this agreement will be effective unless it is (1) in accordance with this section, (2) in writing, and (3) signed by the Core Contributors whose votes duly authorize it.
+
 This agreement may be amended by a Vote of the Core Contributors, except that the provisions of the Dynamic Royalty License Agreement will govern and control to the extent that there are any conflicts or inconsistencies between this agreement, or an amendment to this agreement, and the Dynamic Royalty License Agreement.
 
 The Core Contributors shall promptly revise this agreement to reflect any duly authorized amendments.
