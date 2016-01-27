@@ -20,6 +20,8 @@ You shall include the above copyright notice and this agreement in all copies or
 
 "Notice Message Service" means the following message address or Intellectual Property service: **[insert message address for official notices to the Core Contributors]**.
 
+"Vote" means a vote duly made by the Core Contributors under the Governance Agreement.
+
 "You" or "Your" means an individual or a legal entity exercising rights under this agreement. For legal entities, You includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, control means (1) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (2) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
 
 Unless otherwise defined in this agreement, all terms utilized herein have the meanings stated in the Governance Agreement.
@@ -54,9 +56,15 @@ THE INTELLECTUAL PROPERTY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXP
 
 ## Jurisdiction, Venue, and Governing Law
 
-Any action or suit relating to this agreement may be brought only in the courts of a jurisdiction wherein the party resides or in which the party conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any use of the Intellectual Property outside the scope of this agreement or after its termination will be subject to the requirements and penalties of the U.S. Copyright Act, 17 U.S.C. 101 et seq., the equivalent laws of other countries, and international treaty. 
+Any action or suit relating to this agreement may be brought only in the courts of a jurisdiction wherein the party resides or in which the party conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any use of the Intellectual Property outside the scope of this agreement or after its termination will be subject to the requirements and penalties of the U.S. Copyright Act, 17 U.S.C. 101 et seq., the equivalent laws of other countries, and international treaty.
+
+## Entire Agreement
+
+This agreement constitutes the entire agreement of the parties relating to the subject matter of this agreement and supersedes all other oral or written agreements or policies relating thereto.
 
 ## Modifications
+
+No amendment of this agreement will be effective unless it is (1) in accordance with this section, (2) in writing, and (3) signed by the Core Contributors whose votes duly authorize it.
 
 The Core Contributors may, by a Vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
 
