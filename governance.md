@@ -4,7 +4,7 @@ The Core Contributors agree as follows:
 
 ## Definitions
 
-"Dynamic Royalty License Agreement" means the license agreement for the Software at **[insert URL of license agreement]**.
+"Dynamic Royalty License Agreement" means the license agreement for the Intellectual Property at **[insert URL of license agreement]**.
 
 "Proposal Address" means the mailing list, repository, wiki, chat server, or other communication service for the Core Contributors that is hosted by **[insert host name]**, with an archive at **[insert url of mailing list archive]** (the "Proposal Address").
 
@@ -28,9 +28,9 @@ A Committee will authorize its actions by a Vote of the Committee, or as otherwi
 
 ## Royalty Tokens
 
-The Core Contributors, or a duly authorized Committee, shall (1) review each contribution of intellectual property to the Software by the Contributors, and determine, by Vote, whether the contribution is accepted, and if so, the number of Royalty Tokens to be issued in connection with that acceptance, as described in the Dynamic Royalty License Agreement, (2) maintain, and make reasonably available to the Contributors, the Royalty Token Table, Proposal Address and the Notice Message Address.
+The Core Contributors, or a duly authorized Committee, shall (1) review each contribution of intellectual property to the Intellectual Property by the Contributors, and determine, by Vote, whether the contribution is accepted, and if so, the number of Royalty Tokens to be issued in connection with that acceptance, as described in the Dynamic Royalty License Agreement, (2) maintain, and make reasonably available to the Contributors, the Royalty Token Table, Proposal Address and the Notice Message Address.
 
-The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution of intellectual property that is accepted by the Core Contributors and included in the Software. The amount of Royalty Tokens awarded will be based upon the following formula:
+The Core Contributors shall award tokens (the "Royalty Tokens") to the Contributors for each contribution of intellectual property that is accepted by the Core Contributors and included in the Intellectual Property. The amount of Royalty Tokens awarded will be based upon the following formula:
 
 Royalty Token Award = Base Award x Risk Factor
 
@@ -41,10 +41,10 @@ Royalty Token Award = Base Award x Risk Factor
 - (1) if more than $100,000 in Royalties have been distributed to the Contributors in the 1 year period prior to the award.
 
 "Base Award" means:
-- (50) Insightful comment resulting in an improvement to the software
+- (50) Insightful comment resulting in an improvement to the Intellectual Property
 - (100) Small contribution equivalent to approximately one skillful hour of insight
 - (200) Small software contribution with test coverage
-- (800) Standard Contribution
+- (800) Standard contribution
 - (1600) Standard software contribution with test coverage
 
 The Core Contributors shall record the issuance of Royalty Tokens in a table that is reasonably accessible to the Contributors (the "Royalty Token Table"). The Core Contributors shall provide a copy of the Royalty Token Table to any Contributor upon a written request to the Notice Message Address.
