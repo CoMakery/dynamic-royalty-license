@@ -20,9 +20,9 @@ You shall include the above copyright notice and this agreement in all copies or
 
 "Software" means the work of authorship, whether in source or object form, made available under this agreement, as indicated by a copyright notice that is included in or attached to the work.
 
-"Vote" means a vote duly made by the Core Contributors under the Governance Agreement.
-
 "You" or "Your" means an individual or a legal entity exercising rights under this agreement. For legal entities, You includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, control means (1) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (2) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
+
+Unless otherwise defined in this agreement, all terms utilized herein have the meanings stated in the Governance Agreement.
 
 ## Grant of License
 
