@@ -65,8 +65,12 @@ The Core Contributors agree to the terms of the Dynamic Royalty License Agreemen
 
 Any action or suit relating to this agreement may be brought only in the courts of a jurisdiction wherein the party resides or in which the party conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions.
 
+## Entire Agreement
+
+This agreement constitutes the entire agreement of the parties relating to the subject matter of this agreement and supersedes all other oral or written agreements or policies relating thereto.
+
 ## Modifications
 
-This agreement may be amended by a Vote of the Core Contributors except that to the extent that there are any conflicts or inconsistencies between this agreement, or an amendment to this agreement, and the Dynamic Royalty License Agreement, the provisions of the Dynamic Royalty License Agreement will govern and control.
+This agreement may be amended by a Vote of the Core Contributors, except that the provisions of the Dynamic Royalty License Agreement will govern and control to the extent that there are any conflicts or inconsistencies between this agreement, or an amendment to this agreement, and the Dynamic Royalty License Agreement.
 
 The Core Contributors shall promptly revise this agreement to reflect any duly authorized amendments.
