@@ -52,6 +52,10 @@ Each Contributor represents that the Contributor (1) has the right and power to 
 
 THE INTELLECTUAL PROPERTY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT WILL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INTELLECTUAL PROPERTY OR THE USE OR OTHER DEALINGS IN THE INTELLECTUAL PROPERTY, EXCEPT WITH REGARD TO THE OBLIGATIONS OF THE CORE CONTRIBUTORS TO THE CONTRIBUTORS TO DISTRIBUTE ROYALTIES TO THE CONTRIBUTORS THAT ARE DULY PAID TO THE ROYALTY PAYMENT ADDRESS.
 
+## Jurisdiction, Venue, and Governing Law
+
+Any action or suit relating to this agreement may be brought only in the courts of a jurisdiction wherein the party resides or in which the party conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any use of the Intellectual Property outside the scope of this agreement or after its termination will be subject to the requirements and penalties of the U.S. Copyright Act, 17 U.S.C. 101 et seq., the equivalent laws of other countries, and international treaty. 
+
 ## Modifications
 
 The Core Contributors may, by a Vote, (1) add a Core Contributor or (2) remove a Core Contributor. The Core Contributors shall promptly revise this agreement to reflect any such addition or removal.
