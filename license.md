@@ -44,7 +44,11 @@ You shall provide a report, upon request by any of the Core Contributors, indica
 
 Interest will accrue on any Royalties due and payable hereunder and remaining unpaid for more than 30 days (the “Principal Amount”) at a rate per annum that will from day to day be equal to the maximum rate permitted under the applicable usury law, or if there is no applicable limit under applicable usury law, then at 20% per annum compound interest, computed on the basis of a year of 360 days and for the actual number of days elapsed (including the first day but excluding the last day) until payment of the Principal Amount.
 
-## Warranties and Limitations of Liability
+You will bear the cost of any taxes (exclusive of taxes based on the net income of the Contributors), levies, duties and fees of any kind, nature or description whatsoever applicable to the payment of the Royalty Percentage. Each Contributor will bear the cost of any taxes, levies, duties and fees of any kind, nature or description whatsoever based on the net income of the Contributor.
+
+## Representations, Warranties, and Limitations of Liability
+
+Each Contributor represents that the Contributor (1) has the right and power to enter into and fully perform the obligations that the Contributor has undertaken in this agreement, (2) is not under any obligations, contractual or otherwise, to any other entity that might conflict, interfere, or be inconsistent with any of the provisions of this agreement, and (3) will comply with all federal, state and local laws, rules and regulations necessary for the Contributor to perform the Contributor's obligations under this agreement.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT WILL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EXCEPT WITH REGARD TO THE OBLIGATIONS OF THE CORE CONTRIBUTORS TO THE CONTRIBUTORS TO DISTRIBUTE ROYALTIES TO THE CONTRIBUTORS THAT ARE DULY PAID TO THE ROYALTY PAYMENT ADDRESS.
 
