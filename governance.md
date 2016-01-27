@@ -61,6 +61,10 @@ Each Core Contributor shall, promptly upon being duly approved to be added as a 
 
 The Core Contributors agree to the terms of the Dynamic Royalty License Agreement.
 
+## Jurisdiction, Venue, and Governing Law
+
+Any action or suit relating to this agreement may be brought only in the courts of a jurisdiction wherein the party resides or in which the party conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions.
+
 ## Modifications
 
 This agreement may be amended by a Vote of the Core Contributors except that to the extent that there are any conflicts or inconsistencies between this agreement, or an amendment to this agreement, and the Dynamic Royalty License Agreement, the provisions of the Dynamic Royalty License Agreement will govern and control.
