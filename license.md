@@ -2,23 +2,23 @@
 
 Copyright (c) **[insert year]** The Contributors
 
-Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Software are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software, You agree to be bound by this agreement. This agreement affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Software.
+Your use, reproduction, copying, modification, merging, publication, distribution, sublicensing, or selling of, or contribution to, the Intellectual Property are conditioned on your acceptance of and compliance with this agreement. By using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Intellectual Property, You agree to be bound by this agreement. This agreement affects Your legal rights and obligations. If You do not agree to be bound by all of the terms of this agreement, You are prohibited from using, reproducing, copying, modifying, merging, publishing, distributing, sublicensing, or selling, or contributing to, the Intellectual Property.
 
-You shall include the above copyright notice and this agreement in all copies or substantial portions of the Software.
+You shall include the above copyright notice and this agreement in all copies or substantial portions of the Intellectual Property.
 
 ## Definitions
 
-"Contributor" means each individual or entity that creates or contributes to the creation or improvement of the Software, including the initial author of the Software.
+"Contributor" means each individual or entity that creates or contributes to the creation or improvement of the Intellectual Property, including the initial author of the Intellectual Property.
 
 "Core Contributors" means the following individuals or entities: **[insert names of initial core contributors]**.
 
 "Governance Agreement" means the governance agreement by the Core Contributors at **[insert URL of governance agreement]**.
 
-“Gross Sales Revenue” means all revenues actually received by You from the sale of the Software, including any derivatives, modifications, sublicensing, and integrations of the Software.
+“Gross Sales Revenue” means all revenues actually received by You from the sale of the Intellectual Property, including any derivatives, modifications, sublicensing, and integrations of the Intellectual Property.
 
-"Notice Message Service" means the following message address or software service: **[insert message address for official notices to the Core Contributors]**.
+"Intellectual Property" means the work of authorship made available under this agreement, as indicated by a copyright notice that is included in or attached to the work.
 
-"Software" means the work of authorship, whether in source or object form, made available under this agreement, as indicated by a copyright notice that is included in or attached to the work.
+"Notice Message Service" means the following message address or Intellectual Property service: **[insert message address for official notices to the Core Contributors]**.
 
 "You" or "Your" means an individual or a legal entity exercising rights under this agreement. For legal entities, You includes any entity that controls, is controlled by, or is under common control with You. For purposes of this definition, control means (1) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (2) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.
 
@@ -26,9 +26,9 @@ Unless otherwise defined in this agreement, all terms utilized herein have the m
 
 ## Grant of License
 
-The Contributors hereby grant You a worldwide and non-exclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Software, on the terms and conditions stated in this agreement.
+The Contributors hereby grant You a worldwide and non-exclusive license to use, reproduce, copy, modify, merge, publish, distribute, sublicense, or sell the Intellectual Property, on the terms and conditions stated in this agreement.
 
-If You are a Contributor, You agree to the grant of the above license with respect to your contributions to the Software, and You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
+If You are a Contributor, You agree to the grant of the above license with respect to your contributions to the Intellectual Property, and You represent that You are legally entitled to grant the above license. If Your employer has rights to intellectual property that You create that includes Your contributions, You represent that You have received permission to make contributions on behalf of that employer under this agreement.
 
 ## Royalty Payments
 
@@ -50,7 +50,7 @@ You will bear the cost of any taxes (exclusive of taxes based on the net income 
 
 Each Contributor represents that the Contributor (1) has the right and power to enter into and fully perform the obligations that the Contributor has undertaken in this agreement, (2) is not under any obligations, contractual or otherwise, to any other entity that might conflict, interfere, or be inconsistent with any of the provisions of this agreement, and (3) will comply with all federal, state and local laws, rules and regulations necessary for the Contributor to perform the Contributor's obligations under this agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT WILL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, EXCEPT WITH REGARD TO THE OBLIGATIONS OF THE CORE CONTRIBUTORS TO THE CONTRIBUTORS TO DISTRIBUTE ROYALTIES TO THE CONTRIBUTORS THAT ARE DULY PAID TO THE ROYALTY PAYMENT ADDRESS.
+THE INTELLECTUAL PROPERTY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT WILL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INTELLECTUAL PROPERTY OR THE USE OR OTHER DEALINGS IN THE INTELLECTUAL PROPERTY, EXCEPT WITH REGARD TO THE OBLIGATIONS OF THE CORE CONTRIBUTORS TO THE CONTRIBUTORS TO DISTRIBUTE ROYALTIES TO THE CONTRIBUTORS THAT ARE DULY PAID TO THE ROYALTY PAYMENT ADDRESS.
 
 ## Modifications
 
@@ -58,4 +58,4 @@ The Core Contributors may, by a Vote, (1) add a Core Contributor or (2) remove a
 
 The Core Contributors may, by a Vote, modify (1) the Notice Message Service, (2) the Royalty Payment Address, or (3) the currency or method by which the Royalties are paid. The Core Contributors shall promptly revise this agreement to reflect any such modification.
 
-The Core Contributors may, by a Vote, modify (1) the Royalty Percentage or (2) the criteria and metrics for determining royalty token awards, for versions of the Software created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Software to reflect such modifications.
+The Core Contributors may, by a Vote, modify (1) the Royalty Percentage or (2) the criteria and metrics for determining royalty token awards, for versions of the Intellectual Property created subsequent to such modification. The Core Contributors shall include a revised dynamic royalty license agreement with such subsequent versions of the Intellectual Property to reflect such modifications.
