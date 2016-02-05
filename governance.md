@@ -55,6 +55,8 @@ Any Contributor may assign ownership of any Royalty Tokens that the Contributor 
 
 The Core Contributors may add a Core Contributor by a Vote of the Core Contributors. The Core Contributors may remove a Core Contributors by a Vote of the Core Contributors, excluding the Core Contributor whose removal is the subject of that Vote.
 
+Any Core Contributor may resign as a Core Contributor by messaging the Proposal Address with a message with a subject, body, repository submission, or primary message field that begins with "[RESIGN] Governance Agreement", except that no Core Contributor may resign as a Core Contributor if there are no remaining Core Contributors.  
+
 ## Agreement Consents
 
 Each Core Contributor shall, promptly upon being duly approved to be added as a Core Contributor, sign this agreement by messaging the Proposal Address with a message with a subject, body, repository submission, or primary message field that begins with "[SIGN] Governance Agreement". No individual or entity will be deemed a Core Contributor without signing this agreement as described in this section.
